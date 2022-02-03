@@ -1,5 +1,8 @@
-# lever_resume_sorter
-Sort resumes for a job posting using the lever API
+# Lever Resume Sorter
+Sort resumes by select key words for any job posting using the lever API.
+
+## Refrence documentation
+<a href="https://hire.lever.co/developer/documentation"> Lever Docs </a>
 
 ## To get set up run 
 
