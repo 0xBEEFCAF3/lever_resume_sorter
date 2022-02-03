@@ -4,14 +4,13 @@ Sort resumes by select key words for any job posting using the lever API.
 ## Refrence documentation
 <a href="https://hire.lever.co/developer/documentation"> Lever Docs </a>
 
-## To get set up run 
+## To get set up
 
 #### Install required packages
 `pip3 install -r requirments.txt`
 
 #### Find your job posting id via the lever dashboard or their api
 `curl -u 'API_KEY:' https://api.lever.co/v1/postings`
- 
  
 ## To run
 
